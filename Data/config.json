@@ -4,6 +4,6 @@
   "buffer_size": 2,
   "rotate_every_hours": 24,
   "max_size_mb": 5,
-  "rotate_after_lines": 100000,
+  "rotate_after_lines": 1000,
   "retention_days": 30
 }

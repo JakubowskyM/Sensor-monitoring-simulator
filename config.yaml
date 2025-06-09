@@ -1,0 +1,7 @@
+client:
+  host: 127.0.0.1
+  port: 5555
+  retries: 3
+  timeout: 5.0
+server:
+  port: 9999
